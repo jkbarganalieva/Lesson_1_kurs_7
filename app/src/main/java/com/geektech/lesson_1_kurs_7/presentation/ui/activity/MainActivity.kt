@@ -1,4 +1,4 @@
-package com.geektech.lesson_1_kurs_7.presentation
+package com.geektech.lesson_1_kurs_7.presentation.ui.activity
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

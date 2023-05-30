@@ -70,5 +70,4 @@ class NoteRepositoryImpl @Inject constructor(
             }
         }.flowOn(Dispatchers.IO)
     }
-
 }
